@@ -1,1 +1,2 @@
-"# files-c-first-project" 
+First project with files '.txt' in c. <br>
+Enjoy :)

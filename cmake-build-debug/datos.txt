@@ -1,0 +1,3 @@
+Nombre: alejandro serrano
+Edad: 19
+Altura: 185.00
